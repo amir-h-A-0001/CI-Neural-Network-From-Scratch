@@ -1,0 +1,25 @@
+# Ignore the entire dataset directory
+dataset/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore environment files
+.env
+venv/
+env/
+.venv/
+
+# Ignore IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
